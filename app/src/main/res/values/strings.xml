@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoListApp</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="new_task">New Task</string>
+    <string name="today">Today</string>
+    <string name="set_date">Set Date</string>
+    <string name="set_priority">Set Priority</string>
+    <string name="add_or_edit_task">Add or edit task</string>
+    <string name="medium_priority">Medium</string>
+    <string name="low_priority">Low</string>
+    <string name="high_priority">High</string>
+</resources>
